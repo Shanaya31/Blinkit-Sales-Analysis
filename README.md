@@ -31,9 +31,8 @@ Interactive Filters: Allows users to filter data by Outlet Location Type, Outlet
 
 ## 📂 Files Included
 
-File Name             	        Description
-Blinkit_Analysis.pbix	          Power BI dashboard project file
-BlinkIT Grocery Data.csv        The primary dataset used for building the dashboard, containing all raw sales, item, and outlet                                           information.
+
+**Blinkit_Analysis.pbix** 	-  Power BI dashboard project file &  **BlinkIT Grocery Data.csv**  -  The primary dataset used for building the dashboard, containing all raw sales, item, and outlet information.
 
 ## 🚀 How to Use
 
